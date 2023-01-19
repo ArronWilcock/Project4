@@ -335,6 +335,8 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
   background: transparent;
+  color: #ba592d !important;
+  text-decoration: underline;
 }
 
 .navbar-toggle {
@@ -787,7 +789,7 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
+  background: #ba592d;
   color: #ffffff !important;
 }
 
@@ -805,7 +807,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #f3976c !important;
+  color: #ba592d !important;
 }
 
 .ltc-atomic-tangerine:hover {
